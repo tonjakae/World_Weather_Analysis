@@ -121,3 +121,15 @@ This new assignment consists of three technical analyses. You will submit the fo
 ### Take a screenshot of your map from Step 7 and save it to the Vacation_Itinerary folder as WeatherPy_travel_map.png.
 
 ![image](https://user-images.githubusercontent.com/87340105/155858140-b5589655-d4a3-4761-be51-2e70a8cbb8ec.png)
+
+### In Step 8, use the provided concat() function code snippet to combine the four separate city DataFrames into one DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155858209-4435cc82-d42a-4f93-80a7-f9525d113ae8.png)
+
+### In Steps 9-11, refactor the code from Steps 2-4 to create a new marker layer map of the cities on the travel route.
+
+![image](https://user-images.githubusercontent.com/87340105/155858218-45f5787b-a69c-4518-86fc-e02c4915f184.png)
+
+### Take a screenshot of your map and save it to the Vacation_Itinerary folder as WeatherPy_travel_map_markers.png.
+
+![image](https://user-images.githubusercontent.com/87340105/155858203-ad21d9af-dd4c-4d13-a44d-e53b906e85a6.png)
