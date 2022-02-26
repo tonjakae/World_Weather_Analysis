@@ -43,7 +43,7 @@ This new assignment consists of three technical analyses. You will submit the fo
 
 ### In Step 2, write two input statements that prompt the user to enter their minimum and maximum temperature criteria for their vacation.
 
-![image](https://user-images.githubusercontent.com/87340105/155857099-a1c17e28-e0f9-42f2-a301-0a1d69618a42.png)
+![image](https://user-images.githubusercontent.com/87340105/155857541-5a7781b6-bf67-425c-91fb-edf5dc96242c.png)
 
 ### In Step 3, use the loc method to filter the city_data_df DataFrame for temperature criteria collected in Step 2, then create a new DataFrame.
 
@@ -67,7 +67,28 @@ This new assignment consists of three technical analyses. You will submit the fo
 
 ![image](https://user-images.githubusercontent.com/87340105/155857491-aaaf07e6-0483-4a30-9257-c0b1c9bf9861.png)
 
-
 ### In Step 7, drop any rows in the hotel_df DataFrame where a hotel name is not found.
 
-Before exporting your DataFrame as a CSV, take a moment to confirm that your hotel_df DataFrame looks similar to the image below.
+![image](https://user-images.githubusercontent.com/87340105/155857579-e40223f7-3088-4f29-8e43-2439170d13af.png)
+
+### In Steps 8a-b, create an output file to store the hotel_df DataFrame as WeatherPy_vacation.csv in the Vacation_Search folder.
+
+![image](https://user-images.githubusercontent.com/87340105/155857610-5b38abb4-1bd5-436a-b59f-32cef0833661.png)
+
+### In Step 9, add the city name, the country code, the weather description, and the maximum temperature for the city to the info_box_template format template we have provided.
+
+![image](https://user-images.githubusercontent.com/87340105/155857626-cc0f4bf3-5cdd-4c40-9348-ed0610d38f46.png)
+
+### In Step 10a, use the provided list comprehension code to retrieve the city data from each row, which will then be added to the formatting template and saved in the hotel_info list.
+
+### In Step 10b, use the provided code snippet to retrieve the latitude and longitude from each row and store them in a new DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155857636-d8f25c20-0d0f-4f0c-9fee-dae3f0675066.png)
+
+### In Steps 11a-b, refactor your previous marker layer map code to create a marker layer map that will have pop-up markers for each city on the map.
+
+![image](https://user-images.githubusercontent.com/87340105/155857640-48f6eeba-c3f3-4a81-84d4-fb2e4dfd6faf.png)
+
+### Take a screenshot of your map and save it to the Vacation_Search folder as WeatherPy_vacation_map.png.
+
+![image](https://user-images.githubusercontent.com/87340105/155857659-017ad59e-62d6-45b7-b8ee-41306a0b4898.png)
