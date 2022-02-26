@@ -92,3 +92,32 @@ This new assignment consists of three technical analyses. You will submit the fo
 ### Take a screenshot of your map and save it to the Vacation_Search folder as WeatherPy_vacation_map.png.
 
 ![image](https://user-images.githubusercontent.com/87340105/155857659-017ad59e-62d6-45b7-b8ee-41306a0b4898.png)
+
+## Deliverable 3: Create a Travel Itinerary Map
+### In Step 1, import the WeatherPy_vacation.csv file from your Vacation_Search folder from Deliverable 2 as a DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155857745-a052f373-2532-44fb-b37d-757c9941d71f.png)
+
+### In Steps 2-4, copy or refactor the code from Steps 11a-b of Deliverable 2 to create a marker layer map of the vacation search results.
+
+![image](https://user-images.githubusercontent.com/87340105/155857788-91461391-21c9-4a33-ab4c-17e2a3108a2d.png)
+
+### From the vacation search map, choose four cities that a customer might want to visit. They should be close together and in the same country.
+
+![image](https://user-images.githubusercontent.com/87340105/155858057-8c75fd2c-acfa-4432-af0d-09e0c77cd3fb.png)
+
+### In Step 5, use the variables we have provided and the loc method to create separate DataFrames for each city on the travel route.
+
+![image](https://user-images.githubusercontent.com/87340105/155858027-a449fc3c-9c97-4f90-89c4-53e34b89df25.png)
+
+### In Step 6, use the to_numpy() function and list indexing to write code to retrieve the latitude-longitude pairs as tuples from each city DataFrame.
+
+![image](https://user-images.githubusercontent.com/87340105/155858103-9d3e5e1c-168c-4819-b4de-6833ea05e3da.png)
+
+### In Step 7, use the gmaps documentation (Links to an external site.) to create a directions layer map using the variables from Step 6, where the starting and ending city are the same city, the waypoints are the three other cities, and the travel_mode is either "DRIVING", "BICYCLING", or "WALKING".
+
+![image](https://user-images.githubusercontent.com/87340105/155858119-f94a7419-3ab2-4841-8d07-d085e915d626.png)
+
+### Take a screenshot of your map from Step 7 and save it to the Vacation_Itinerary folder as WeatherPy_travel_map.png.
+
+![image](https://user-images.githubusercontent.com/87340105/155858140-b5589655-d4a3-4761-be51-2e70a8cbb8ec.png)
